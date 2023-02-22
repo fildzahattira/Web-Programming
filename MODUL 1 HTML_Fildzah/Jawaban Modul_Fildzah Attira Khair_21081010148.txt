@@ -1,0 +1,101 @@
+Fildzah Attira Khair
+21081010148
+Pemrograman Web C081
+
+A. TUGAS PENDAHULUAN
+
+1.HTML merupakan singkatan dari Hypertext Markup Language. HTML merupakan
+bahasa untuk membuat halaman web. Struktur penulisan dokumen HTML :
+<!DOCTYPE html>
+<html>
+<head>
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+2. HTML5 adalah versi perbaikan dari HTML, yang dimana dalam HTML5 terdapat
+perubahan-perubahan yang lebih baik dari HTML. HTML5 mampu
+menangani eror dengan lebih baik, menggunakan syntax yang lebih sederhana dan
+lain-lain. Struktur penulisan dokumen HTML5 :
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+</head>
+<body>
+</body>
+</html>
+
+3. Contoh tag HTML :
+1. <html> </html> (menandai bagian awal dan akhir dokumen)
+2. <head></head> (menandai bagian header dokumen)
+3. <title></title> (untuk pemberian judul dokumen)
+4. <body></body> (menandai awal dan akhir isi dokumen)
+5. <p></p> (untuk menuliskan paragraph)
+6. <pre></pre> (untuk menuliskan paragraph yang tampilannya akan persis sesuai
+yang dituliskan di code editor)
+7. <b></b> (agar tulisan menjadi tebal atau bold)
+8. <strong></strong> (alternatif lain agar tulisan menjadi tebal atau bold)
+9. <hr /> (untuk menampilkan garis)
+10. <br /> (agar tulisan selanjutnya terletak di baris baru)
+11. <a></a> (untuk menampilkan link)
+12. <header></header> (untuk bagian header halaman/awal halaman)
+13. <footer></footer> (untuk bagian footer halaman/akhir halaman)
+14. <i></i> (agar teks menjadi miring atau italic)
+15. <em></em> (alternatif lain agar teks menjadi miring atau italic)
+16. <sup></sup> (untuk menuliskan pangkat atas)
+17. <sub></sub> (untuk menuliskan pangkat bawah)
+18. <mark></mark> (untuk marker/kegunaan seperti stabilo)
+19. <u></u> (untuk membuat garis bawah teks atau underline)
+20. <ins></ins> (alternatif lain untuk membuat garis bawah teks atau underline)
+21. <var></var> (untuk menuliskan nama variable dari suatu program)
+22. <hx></hx> (untuk menuliskan judul, x dimulai dari 1-6, semakin besar x maka
+semakin kecil teksnya)
+23. <s></s> (agar teks tercoret atau strikethrough)
+24. <del></del> (alternatif lain agar teks tercoret atau strikethrough)
+25. <img> (untuk menampilkan gambar)
+26. <ul></ul> (untuk list yang tidak ada urutannya, terurut dengan simbol bullet)
+27. <ol></ol> (untuk list yang ada urutannya/nomor urut)
+28. <li></li> (untuk menuliskan isi list, digunakan di dalam tag <ul> atau <ol>)
+29. <table></table> (untuk menampilkan tabel)
+30. <tr></tr> (sebagai penanda baris tabel, ditulis di dalam tag <table>)
+31. <td></td> (sebagai penanda kolom tabel, ditulis di dalam tag <tr>)
+
+4. Tag tambahan dalam HTML5 :
+1. <canvas> (membuat gambar bitmap
+2. <audio> (memasukkan suara pada halaman HTML)
+3. <video> (menampilkan video pada halaman HTML)
+4. <meter> (menampilkan pengukuran skala)
+5. <progress> (membuat progres)
+Dll
+
+B. TUGAS
+c. Tag <div> digunakan untuk mendefinisikan suatu area dalam
+dokumen atau membangun layout halaman web. Sedangkan, tag
+<p> digunakan untuk menuliskan teks berupa paragraph.
+
+j. Setelah saya ubah value, yang terjadi adalah :
+- Cellpading : semakin besar value, semakin besar juga jarak spasi
+dalam sel
+- Cellspacing : semakin besar value, semakin besar juga jarak
+spasi diantara sel
+- Colspan : semakin besar value, maka semakin banyak kolom
+yang digabung (memanjang kesamping)
+- Rowspan : semakin besar value, maka semakin banyak baris
+yang digabung (memanjang kebawah)
+
+k. saya menggunakan table untuk membuat tampilan seperti gambar
+diatas dan yang terjadi adalah
+saya mempunyai syntax html untuk membuat tampilan seperti
+gambar diatas setelah mencoba membuatnya.
+
+
+C. KESIMPULAN
+menurut saya, modul praktik HTML ini cocok untuk dijadikan salah satu sumber belajar
+karena membuat saya menjadi menambah pengetahuan dan sekalian latihan secara
+langsung dengan menyelesaikan tugas-tugas yang ada dalam modul ini.
