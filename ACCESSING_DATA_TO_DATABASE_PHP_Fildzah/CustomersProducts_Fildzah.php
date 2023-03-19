@@ -31,8 +31,8 @@
         echo "<th>City</th>";
         echo "<th>State</th>";
         echo "<th>PostalCode</th>";
-        echo "<th>SalesRepEmployeeNumber</th>";
         echo "<th>Country</th>";
+        echo "<th>SalesRepEmployeeNumber</th>";
         echo "<th>CreditLimit</th>";
         while ($obj = $result->fetch_object()){
             echo ("<tr>
