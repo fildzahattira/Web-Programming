@@ -1,0 +1,20 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.photo{
+    width: 254px;
+    height: 372px;
+}
+td {
+    padding-top: 3.5px;
+    padding-bottom: 1.5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+tr:nth-child(even){
+    background-color: mistyrose;
+}
+tr:nth-child(odd){
+    background-color: aliceblue;
+}
