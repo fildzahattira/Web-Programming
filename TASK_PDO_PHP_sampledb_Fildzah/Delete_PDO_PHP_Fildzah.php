@@ -9,7 +9,6 @@
 <body>
     <?php
         include ('Conn_PDO_PHP_Fildzah.php');
-        // $link_transupn = "Read_transupn_transupn_Fildzah.php";
         if ($_SERVER["REQUEST_METHOD"]==="POST") {
                 $customerNumber = $_POST["customerNumber"];
 
