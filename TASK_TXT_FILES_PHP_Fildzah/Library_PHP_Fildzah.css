@@ -1,0 +1,12 @@
+textarea {
+    resize: none;
+  }
+a {
+    text-decoration: none;
+}
+a.cancel {
+    color: black;
+}
+body {
+    background-color: #f5f0e1;
+}
