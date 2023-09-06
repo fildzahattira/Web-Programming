@@ -1,0 +1,61 @@
+/*form button*/
+.button{
+    border-radius: 5px;
+}
+.buttonRegist{
+    background-color: #98FF98;
+}
+
+.header{
+    overflow: hidden;
+    background-color: #6EB5FF;
+    padding: 20px 10px;
+
+}
+.header a.logo{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.header-right{
+    float: right;
+}
+
+/*table read*/
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+
+/*add button category*/
+.aBtn{
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    border: none;
+    border-radius: 10px;
+    background-color: tomato;
+}
+
+/*update delete button category*/
+.btn2{
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(163, 248, 35);
+}
+.btn3{
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(243, 42, 42);
+}
+
+/*cover book*/
+img{
+    width: 90px;
+    height: 120px;
+}
+
